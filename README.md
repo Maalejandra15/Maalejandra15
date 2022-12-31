@@ -10,7 +10,7 @@
      of technology more than all the part of software development
      part of , for now I focus more on the web part, so I develop in: 👀
      
-     _JAVA  
+     -JAVA  
      -HTML
      -CSS
      -JAVACRIPT
