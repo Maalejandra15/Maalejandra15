@@ -10,7 +10,7 @@
      of technology more than all the part of software development
      part of , for now I focus more on the web part, so I develop in: 👀
      
-     -JAVA  
+     -JAVA
      -HTML
      -CSS
      -JAVACRIPT
@@ -22,8 +22,9 @@
  and a bit about spring boot 🌱 
 
  I dedicate myself every day to improve, reinforce and gain new knowledge,
- In the future I plan to continue studying,
+ In the future I plan to continue studyin,
  for now I am self-taught
+
 
 
 
